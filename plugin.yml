@@ -1,0 +1,14 @@
+name: NNM-Server
+main: NNMServer\NNM\Main
+version: 0.1
+api: [4.0.0,3.0.0,3.5.0]
+author: NNMServer
+authors: [XvXnonameXvV,PawarenessC]
+load: POSTWORLD
+commands:
+ command1:
+  description: "コマンド1の説明"
+  usage: "/command1"
+ command2:
+  description: "コマンド2の説明"
+  usage: "/command2"
